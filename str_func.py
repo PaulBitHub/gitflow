@@ -12,6 +12,3 @@ def do_upper_first_symbol(data_string):
         return ""
 
     return data_string[0].upper() + data_string[1:]
-=======
-    return data_string.upper()
->>>>>>> main
