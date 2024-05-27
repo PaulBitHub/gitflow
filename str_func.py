@@ -1,5 +1,4 @@
 def do_upper(data_string):
-<<<<<<< HEAD
     """Возвышает(!) все символы в верхний регистр в строке"""
     return data_string.upper()
 
